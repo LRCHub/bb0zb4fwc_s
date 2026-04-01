@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "平気なんですよ本当に",
+  "base_artist": "Sohbana",
+  "createdAt": "2026-04-01T12:23:17.832059Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "平気なんですよ本当に",
+      "artist": "Sohbana",
+      "has_synced": false,
+      "path": "select/pl_01_平気なんですよ本当に_Sohbana.txt"
+    }
+  ]
+}
